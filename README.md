@@ -120,17 +120,15 @@
 
 ### >>> <a href="https://profile-summary-for-github.com/user/karnzx">Profile summary</a> <<< ###
 
+
+<details>
+<summary><b>Profile Status</b></summary>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=karnzx&show_icons=true&locale=en" alt="karnzx" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karnzx&show_icons=true&locale=en&layout=compact" alt="karnzx" />
 </p>
 </br>
-
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karnzx&show_icons=true&include_all_commits=true&count_private=true )](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karnzx&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
--->
+</details>
 
 <details>
 <summary><b>Pin Repos</b></summary>
@@ -141,4 +139,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nksoluna&repo=Pokelyzer_flutter" />
 </a>
 </details>
+
+
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karnzx&show_icons=true&include_all_commits=true&count_private=true )](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karnzx&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+-->
 

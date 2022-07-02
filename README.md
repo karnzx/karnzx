@@ -120,9 +120,11 @@
 
 ### >>> <a href="https://profile-summary-for-github.com/user/karnzx">Profile summary</a> <<< ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karnzx&show_icons=true&locale=en&layout=compact" alt="karnzx" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=karnzx&show_icons=true&locale=en" alt="karnzx" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=karnzx&show_icons=true&locale=en" alt="karnzx" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karnzx&show_icons=true&locale=en&layout=compact" alt="karnzx" />
+</p>
+</br>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karnzx&show_icons=true&include_all_commits=true&count_private=true )](https://github.com/anuraghazra/github-readme-stats)

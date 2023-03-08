@@ -21,7 +21,10 @@
   <img align="center" src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" height="30" width="40" />
 </a>
 
-<h3 align="left">Languages and Tools:</h3>
+<details>
+<summary>
+  <b>Languages and Tools:</b>
+</summary>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -117,7 +120,8 @@
   <img src="https://skillicons.dev/icons?i=solidity" alt="solidity" height="40" width="40" />
   <img src="https://skillicons.dev/icons?i=linux" alt="linux" height="40" width="40" />
 </p>
-
+</details>
+  
 ### >>> <a href="https://profile-summary-for-github.com/user/karnzx">Profile summary</a> <<< ###
 
 
